@@ -27,19 +27,7 @@ const styles = StyleSheet.create({
       height: '100%',
       width: '100%',
       marginTop: 30
-  },
-    controlBar: {
-        position: 'absolute',
-        bottom: 0,
-        left: 0,
-        right: 0,
-        height: 45,
-        flexDirection: 'row',
-        alignItems: 'center',
-        justifyContent: 'center',
-        backgroundColor: "rgba(0, 0, 0, 0.5)",
-    }
-
+  }
 });
 export default App;
 
